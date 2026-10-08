@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rk268.github.io/sitemap.xml
